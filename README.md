@@ -28,12 +28,8 @@ Installing on Windows
 Although Windows is not officially supported, helpful users have posted instructions on how to install this library on Windows. Check out @masoudr’s Windows 10 installation guide for a step-by-step guide on installing dlib and face_recognition.
 Usage
 
-This project provides a simple face_recognition command line tool that allows you to perform face recognition on a folder of images from the command line. Explore the various options and parameters to customize your face recognition experience.
-Contributors
-
-    [Your Name]
-    [Contributor 1]
-    [Contributor 2]
+This project provides a simple face_recognition command line tool that allows you to perform face recognition on a folder of images from the command line. Explore the various options and parameters to customize your face recognition experience. 
+This project was taken from https://pypi.org/project/face-recognition/ 
 
 License
 
