@@ -5,12 +5,7 @@
 Face Recognition
 
 Welcome to the Face Recognition project, a Python library that allows you to recognize and manipulate faces easily. This project leverages the power of dlib's state-of-the-art face recognition built with deep learning. The model boasts an impressive accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
-Features
-
-    Recognize and manipulate faces from Python or via the command line.
-    Simple and easy-to-use face recognition library.
-    Utilizes dlib's powerful face recognition capabilities.
-    Achieves a remarkable accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
+Features. Recognize and manipulate faces from Python or via the command line. Simple and easy-to-use face recognition library. Utilizes dlib's powerful face recognition capabilities.Achieves a remarkable accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
 
 Installation
 Requirements
