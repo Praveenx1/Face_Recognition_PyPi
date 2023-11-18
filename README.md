@@ -21,7 +21,7 @@ Once dlib is installed, you can install the face_recognition module from PyPI us
 
 bash
 
-pip3 install face_recognition
+    pip3 install face_recognition
 
 Installing on Windows
 
