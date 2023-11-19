@@ -71,4 +71,4 @@ def classify_face(im):
             return face_names 
 
 
-print(classify_face("P_t1.jpg")) # You can either try to find people "test2.jpg" or "test1.jpg" in the string.
+print(classify_face("Give_test_image.jpg")) 
