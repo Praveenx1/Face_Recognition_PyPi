@@ -8,7 +8,8 @@ Welcome to the Face Recognition project, a Python library that allows you to rec
 Features. Recognize and manipulate faces from Python or via the command line. Simple and easy-to-use face recognition library. Utilizes dlib's powerful face recognition capabilities.Achieves a remarkable accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
 
 Installation
-Requirements
+INSTALL THE requirements.txt file
+
 
     Python 3.3+ or Python 2.7
     macOS or Linux (Windows not officially supported, but might work)
