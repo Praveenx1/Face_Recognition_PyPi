@@ -30,11 +30,9 @@ Although Windows is not officially supported, helpful users have posted instruct
 Usage
 
 This project provides a simple face_recognition command line tool that allows you to perform face recognition on a folder of images from the command line. Explore the various options and parameters to customize your face recognition experience. 
-Run
-   python face.py
+Run python face.py
 This will give the face recognised image of the image provided 
-Run 
-  python face_video.py
+Run python face_video.py
 THis will recognise image from webcame or USBcam
 This project was taken from https://pypi.org/project/face-recognition/ 
 
